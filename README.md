@@ -18,7 +18,6 @@ This project performs exploratory data analysis (EDA) on a synthetic credit risk
 | File Name                              | Description |
 |----------------------------------------|-------------|
 | https://github.com/shivani-vislavath/-PRODIGY_DS_02-/blob/main/Credit_Risk_EDA_Report_Vislavath_Shivani.docx.docx | Full report with detailed analysis and insights |
-| https://github.com/shivani-vislavath/-PRODIGY_DS_02-/blob/main/EDA_charts_screenshot.png   | Chart visual summarizing EDA findings |
 
 ---
 
@@ -54,11 +53,4 @@ This project performs exploratory data analysis (EDA) on a synthetic credit risk
 
 ---
 
-## 📸 Visual Preview
-
-
-![EDA Visual Summary](images/credit_risk_eda_charts.png)
-
----
-
-> ✅ This project was completed as part of the Prodigy InfoTech Data Science Internship.
+> ✅ This project was completed as part of the Prodigy InfoTech Data Analyst Internship.
